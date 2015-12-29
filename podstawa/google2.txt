@@ -1,0 +1,9 @@
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Eurotrotter_dó³ -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-5766569546965532"
+     data-ad-slot="6241794402"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
